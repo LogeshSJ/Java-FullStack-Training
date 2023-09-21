@@ -1,4 +1,4 @@
 1.we learned about basics on RAM,ROM and CPU and their connectivity.
 2.And we learned about the network bsic like TCP,UDP,and DNS.
 3.And we learned about the client,server and how developers communicate with them.
-And then we created the Github account and linked git. Then we connected with the visual studio.
+And then we created the Github account and linked git. Then we connected with the visual studio. 
