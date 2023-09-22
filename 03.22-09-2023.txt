@@ -1,0 +1,7 @@
+Developing an webpage templates using HTML and css.
+display flex
+padding,Margins
+Border radius,View width
+View Height
+align items
+
