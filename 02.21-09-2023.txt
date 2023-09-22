@@ -1,4 +1,4 @@
 First thing we did was to fill the text file what we learned yesterday.
 we learned how to build simple website using html and css.
-We learned about pseudo elements and pseudo class.
+We learned about pseudo elements 
 And then flex direction,align items,justification content.
