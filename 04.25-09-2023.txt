@@ -1,0 +1,8 @@
+I learned many concepts in Html and css.
+like 1.justify content.
+     2.display flex
+     3.iframe
+     4.atricle tag
+css properties:
+    1.grid template
+    2.gird column
