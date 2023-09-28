@@ -1,0 +1,7 @@
+I learned a todo application using javascript.
+I learned about 
+            maps
+            reduce
+            filter
+Then i created a phone book based on todo application.
+And lastly build a login page using Bootstrap
