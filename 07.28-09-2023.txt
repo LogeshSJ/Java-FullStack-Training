@@ -1,0 +1,9 @@
+ I learned some js function
+   -addeventlistener
+   -function
+Finally, know about the E-com website creation
+solved simple js programs
+   - emi calculator
+   - cm to m
+   - add 3 numbers
+   - button color change
