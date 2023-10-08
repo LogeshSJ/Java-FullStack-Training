@@ -1,0 +1,3 @@
+Today i completed the add to cart button 
+then i completed the add to cart icon in the home page with js.
+still i am learning js
