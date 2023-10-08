@@ -1,0 +1,4 @@
+Today i completed the rest of the UI in the ecommerce website.
+Then i did login validation for the UI,
+And i did the sign up valodation.
+And i learned little bit about add to cart process in my own way(website)
