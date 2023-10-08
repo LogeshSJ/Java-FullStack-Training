@@ -1,0 +1,5 @@
+Today i learnt how to login and sign validation works.
+And how the products displayed in how page and admin home page
+And how to make edit and delete function works with js.
+Then i saw the visual work on how js works on a e-commerce website.
+Finally i made the UI for login and sign up page
