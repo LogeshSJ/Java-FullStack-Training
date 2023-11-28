@@ -1,0 +1,4 @@
+Clothing-Store:
+*Continued with the integration part of back end and front end  
+        - Made few changes in the UI
+        - GET for User profile.
