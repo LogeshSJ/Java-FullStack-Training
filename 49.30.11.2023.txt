@@ -1,0 +1,20 @@
+Clothing-Store:
+------------------------------------------------
+  worked with ui
+ 
+  user
+  ---------------------------------
+  1.changed some project theme
+  2.order page
+  3.Register page with validation
+  
+ 
+  admin
+  -----------------------------------------
+  1.changed all admin side dashboard
+  2.user details added
+  3.product view page ,add product product change some alignment
+  4.order details show page
+
+  ------------------------
+  File Upload(image)
